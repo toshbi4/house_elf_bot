@@ -1,2 +1,2 @@
-# house_elf_bot
-Telegram bot for smart house controlling.
+# house_elf
+Bot for smart home controlling with raspberri zero.
